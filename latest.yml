@@ -1,0 +1,8 @@
+version: 1.0.9
+files:
+  - url: EmployeeTracker-Setup-1.0.9.exe
+    sha512: Q5V80U+aemGYVakXIxxRT6EKKxrMDjFRoLb936k0Hiso7fCjMUV+GVpb7ByHb6VRxE/u90nR2gp7sX1dSxLsAA==
+    size: 101836785
+path: EmployeeTracker-Setup-1.0.9.exe
+sha512: Q5V80U+aemGYVakXIxxRT6EKKxrMDjFRoLb936k0Hiso7fCjMUV+GVpb7ByHb6VRxE/u90nR2gp7sX1dSxLsAA==
+releaseDate: '2026-05-11T08:37:29.379Z'
